@@ -1,6 +1,9 @@
 # minizinc
+```sh
+minizinc -a -s example/symmetry.mzn
+```
 
-## fail
+## minizinc-js: fail
 
 ### deno
 - `https://esm.sh/minizinc@4.4.4`
